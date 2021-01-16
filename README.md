@@ -1,1 +1,1 @@
-This repository is vreated by Rishabh Verma for submission of sbt assignment
+This repository is created by Rishabh Verma for submission of sbt assignment
